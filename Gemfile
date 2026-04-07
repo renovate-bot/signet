@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "gems", "~> 1.2"
+gem "gems", ">= 1.2", "< 3"
 gem "google-style", "~> 1.31.0"
 gem "hurley"
 gem "irb", "~> 1.17"
